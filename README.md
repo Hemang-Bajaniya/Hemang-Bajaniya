@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm Hemang Bajaniya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemang-bajaniya&label=Profile%20views&color=0e75b6&style=flat" alt="hemang-bajaniya" /> </p>
 
 - 🌱 I’m currently learning **HTML CSS JS Java**
 
@@ -30,8 +31,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemang-bajaniya&show_icons=true&locale=en&layout=compact" alt="hemang-bajaniya" /></p>
 
-<p>&nbsp;<img class="sp" align="center" src="https://github-readme-stats.vercel.app/api?username=hemang-bajaniya&show_icons=true&locale=en" alt="hemang-bajaniya"/></p>
+<p>&nbsp;<img class="sp" align="left" src="https://github-readme-stats.vercel.app/api?username=hemang-bajaniya&show_icons=true&locale=en" alt="hemang-bajaniya"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemang-bajaniya&" alt="hemang-bajaniya" style="margin-top:1rem"/></p>
-
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hemang-bajaniya&" alt="hemang-bajaniya" style="margin-top:1rem"/></p>
